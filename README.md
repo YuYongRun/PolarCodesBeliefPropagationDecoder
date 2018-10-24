@@ -7,3 +7,5 @@ I store the indices that are frequently used in decoding process in matrices. Th
 Besides, the so-called G-matrix early stopping criterion (proposed by Yuan BO) is included.
 With above configurations, for P(1024, 512), 10^4 codewords can be encoded/decoded with in 25s on a common PC. 
 That is to say, 1.44*10^6 decodings can be done in an hour. This speed is enough for BLER simulations.
+
+If you have any question to my codes or have problems in polar codes, you can email me 498699845@qq.com.
