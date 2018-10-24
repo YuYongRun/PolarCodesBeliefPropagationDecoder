@@ -9,3 +9,4 @@ With above configurations, for P(1024, 512), 10^4 codewords can be encoded/decod
 That is to say, 1.44*10^6 decodings can be done in an hour. This speed is enough for BLER simulations.
 
 If you have any question to my codes or have problems in polar codes, you can email me 498699845@qq.com.
+Let us study polar codes together.
