@@ -2,7 +2,7 @@
 MATLAB codes for polar BP decoder. It is just a very simple BP decoder. I hope it would be useful for new learners of polar codes.
 
 MATLAB_Polar_BP_conventional is a quicker version.
-This Bp decoder for poalr codes is relatively quick.
+This Bp decoder for polar codes is relatively quick.
 I store the indices that are frequently used in decoding process in matrices. Therefore, redundant calculations are avoided.
 Besides, the so-called G-matrix early stopping criterion (proposed by Yuan BO) is included.
 With above configurations, for P(1024, 512), 10^4 codewords can be encoded/decoded with in 25s on a common PC. 
