@@ -10,3 +10,4 @@ That is to say, 1.44*10^6 decodings can be done in an hour. This speed is enough
 
 If you have any question to my codes or have problems in polar codes, you can email me 498699845@qq.com.
 Let us study polar codes together.
+However, my math is just-so-so. Don't ask me polar codes error exponent or scaling behavior. I don't know that....
